@@ -224,21 +224,21 @@ Create an API endpoint to insert or update listings and their related data in th
 
 ### Submission
 
-Provide the code in a public GitHub repository.
+#### Provide the code in a public GitHub repository.
 
 Include a README file with instructions to set up and run the API using Docker Compose.
 
 Ensure the code is well-documented and follows best practices.
 
-Evaluation Criteria
+#### Evaluation Criteria
 
-Correctness and completeness of the solution.
+* Correctness and completeness of the solution.
 
-Code quality and organization.
+* Code quality and organization.
 
-Efficiency of database queries.
+* Efficiency of database queries.
 
-Handling of edge cases and errors.
+* Handling of edge cases and errors.
 
-Ease of setup and execution using Docker Compose.
+* Ease of setup and execution using Docker Compose.
 
