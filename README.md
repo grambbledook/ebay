@@ -143,7 +143,7 @@ Create an API endpoint that retrieves listings from the database based on variou
 
 * dataset_entities: Dictionary to filter listings linked to entities with matching JSON data.
 
-Dictionary of property filters: Keys are property IDs, and values are the expected property values.
+* Dictionary of property filters: Keys are property IDs, and values are the expected property values.
 
 #### Output:
 
